@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>222959992998-oagvioq35ro2mirrr56ddq047jkhrshu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.222959992998-oagvioq35ro2mirrr56ddq047jkhrshu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQg1SEs1POp-tBTkO6nYcVPrMCo7Y4a6s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>222959992998</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yuimxstore.FirabaseFiles</string>
+	<key>PROJECT_ID</key>
+	<string>diplomado-c8fdb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diplomado-c8fdb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:222959992998:ios:8af299b86af58ba0663467</string>
+</dict>
+</plist>

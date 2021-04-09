@@ -1,0 +1,6 @@
+framework module Pods_FirabaseFiles {
+  umbrella header "Pods-FirabaseFiles-umbrella.h"
+
+  export *
+  module * { export * }
+}
